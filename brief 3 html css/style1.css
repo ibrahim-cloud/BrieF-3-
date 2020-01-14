@@ -647,13 +647,13 @@ background: linear-gradient(to left, rgba(0, 0, 0, 0.7),rgba(56, 173, 169, 0.7))
 
 
 .abt-btn {
- height: 60px;
-  width: 190px;
+  height: 60px;
+  width: 229px;
   background-color: white;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 35px;
+  border-radius: 23px;
 
 }
 
@@ -680,7 +680,7 @@ background: linear-gradient(to left, rgba(0, 0, 0, 0.7),rgba(56, 173, 169, 0.7))
 }
 #txth2 {
 
-  MARGIN-TOP: -25%;
+  MARGIN-TOP: -21%;
 }
 #txtp{
 
