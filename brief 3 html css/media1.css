@@ -71,6 +71,17 @@
 	.navbar-top {
 		display: none;
 	}
+	#lfot{
+		width: 119PX;
+		margin-left: 0px;
+		  height: auto;
+		  MARGIN-TOP: 4PX;
+	  }
+	  .logo , .logo1 {
+		width: 116px;
+		height: auto;
+		margin-left: 0px;
+	  }
 
 
 
