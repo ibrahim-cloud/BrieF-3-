@@ -1,0 +1,146 @@
+/*-------Media Query Responsive site max 800 px---------*/
+
+@media screen and (max-width: 800px){
+    
+    /*--Responsive Contact----*/
+  iframe {
+    width: 93%;
+}
+#contact {
+  flex-direction: column;  
+  justify-content: space-between;
+  align-content: center;
+  padding: auto;
+}
+div#office {
+  width: 61%;
+}
+div#formcontact {
+  width: 65%;
+  margin: auto;
+
+}
+            /*------ Responsive Blog------*/
+
+h3 {
+  padding-bottom: 20px;
+  font-size: 23px; 
+  
+}
+.mainpage > div {
+  
+  width: 100%;
+  margin: 2em;
+}
+.mainpage{
+  flex-direction: column;
+  justify-content: left;
+  width: 80%;
+} 
+        /*------ Responsive Devis ------*/
+
+div#img {
+
+  width: 50%;
+  margin: 36px 80px;
+}
+div > h5{
+font-size: 14px;
+}
+#fdevis {
+flex-direction: column;
+width: 80%;
+margin: auto;
+}
+div#f1{
+width: 100%;
+padding: auto;
+}
+
+div#f2{
+width:  100%;
+padding: auto;
+}
+div#f3{
+padding: 5px;
+}
+.devis {
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: center;
+}
+h5{
+font-size: 25px;
+text-align: center;
+padding-bottom: 40px;
+}
+div#formcontact input[type=text], select, textarea {
+width:  68%;;
+}
+input[type=text], select, textarea {
+width:  94%;;
+}
+input + span {
+margin-left: -10px;
+}
+}
+
+ /*---------------- Footer Fesponsive jquery css------------*/
+          
+
+ @media screen and (max-width: 800px){
+    footer {
+      flex-direction: column;
+      align-items: center;
+      
+    }
+    footer li {
+      padding: 0px;
+      margin: 0px;
+    }
+    .f_logo {
+      width: 88%;
+    }
+    .f_acce {
+      width: 50%;
+    }
+    .f_service {
+      width: 50%;
+  }
+  .f_contact {
+    width: 50%;
+  }
+  footer h3 {
+   padding: 0px;
+   margin: 0px;
+  }
+  }
+         /*------------media Query menu---------*/
+
+@media screen and (max-width: 900px){
+   
+   
+    div > #infomenu2,li   {
+      flex-direction: column;
+    }
+    div#bottomenu{
+    width: 87%;
+    }
+  
+    div#logo {
+      width: 600px;
+    }
+    section > div {
+    
+      width: 65%;
+      margin: 2em;
+    }
+    ul#infomenu {
+      padding-left: 2px;
+      font-size: 13px;
+  }
+  span {
+    font-size: 13px;
+    padding-left: 2em;
+  }
+  }

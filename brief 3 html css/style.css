@@ -1,0 +1,78 @@
+
+    
+
+body {
+  margin: 0;
+  font-family: 'poppins';
+  
+}
+
+
+     
+            /*------------PAGE BLOG STYLE CSS-------------- */
+
+  @import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+h1 {
+    text-align: center;
+    color: #5CB8E6;
+    text-decoration: underline solid black;
+    font-family:'Font Awesome\ 5 Free';
+    padding: 30px;
+    
+}
+p {
+  font-family:'Font Awesome\ 5 Free';
+  padding-top: 12px;
+    padding-bottom: 10px;
+        
+}
+section > div {
+    
+    width: 35%;
+    
+    margin: 4em;
+    padding: 0.5em;
+    align-items: center;
+    font-style: italic;
+    
+    text-indent: 0;
+  }
+  section > div > img {
+    width: 100%;
+}
+ div > h5{
+    color: #215365;
+    font-size: 20px;
+    font-style: normal;
+    text-align: start;
+    padding: 10px;
+    margin-left: -8px;
+}
+section > div > span {
+    border: 1px ridge #707070;
+    padding: 7px;
+    background-color: #D6D6D6;
+    font-family:'Font Awesome\ 5 Free';
+}
+.mainpage{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+
+}
+
+  section > div > #blog5{
+    flex-grow: 2;
+    padding: 16px;
+  }
+  article {
+    background: #F5F5F5;
+  }
+ 
+              /*-----------------PAGE CONTACT STYLE CSS---------------*/
+  
+
+
+         
