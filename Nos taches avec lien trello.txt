@@ -1,3 +1,5 @@
 Ibrahim Hajiri : A propos de nous - Devis - Nos Projets (Prototype et Html css js)
 Abdellah DAIF : Accueil - services - Pricing - Contact  (Prototype et Html css js)
 Imane Hani : Blog  (Prototype et Html css js)
+
+https://trello.com/b/PL3jkmQ3/brief-3
