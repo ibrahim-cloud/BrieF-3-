@@ -540,7 +540,13 @@ h4{
 /* -----------------------------------------------------------------media team -------------------------------------------------------------- */
 @media (min-width:100PX) and (max-width: 1030px){
 
-
+  .devisf h5 {
+    margin: auto;
+    padding-bottom: 50px !important;
+    margin-left: 0% !important;
+    font-size: 29px;
+    text-align: center;
+}
  .content-all{
 
   margin-top: 0%;
@@ -799,11 +805,11 @@ margin-left: 34%;
   font-size: 30px;
 }
  div#coll1{
-  width: 45%;
+  width: 97%;
     padding: 2px;
 }
 div#coll2{
-  width: 45%;
+  width: 97%;
     padding: 2px;
 }
 label{
@@ -812,13 +818,14 @@ label{
 .fn{
   width: 100%;
   padding: 12px;
-  border: 1px ridge black;
+  border: 1px;
   border-radius: 15px;
   box-sizing: border-box;
   margin: 10px;
 
 
 }
+
 em {
   font-weight: bold;
   font-style: normal;
